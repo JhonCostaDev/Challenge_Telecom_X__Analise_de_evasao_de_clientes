@@ -1,5 +1,6 @@
 # Challenge Telecom X Análise de Evasão de Clientes
 
+![img_telecomX](image.png)
 
 #### O propósito da análise realizada. <= MUDAR
 
