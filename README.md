@@ -1,5 +1,18 @@
 # Challenge Telecom X Análise de Evasão de Clientes
 
+#=================================================================
+O README é essencial para documentar seu projeto, explicando sua finalidade, funcionalidades e instruções de uso.
+
+Como desafio adicional, crie um README.md para seu projeto Telecom X, incluindo:
+
+O propósito da análise realizada.
+Estrutura do projeto e organização dos arquivos.
+Exemplos de gráficos e insights obtidos.
+Instruções para executar o notebook.
+Isso tornará seu projeto mais profissional e acessível para qualquer pessoa que queira entender suas análises.
+#=================================================================
+
+
 ![img_telecomX](image.png)
 
 #### O propósito da análise realizada. <= MUDAR
